@@ -1,10 +1,8 @@
-- 👋 Hi, I’m Daniel Gannota
-- 👀 I’m interested in knowledge (vague on purpose)
-- 🌱 I’m currently learning... Well, I am learning something new every week, so can't be bothered writing something with high maintenance cost
-- 💞️ I’m looking to collaborate on cool IT & AI projects
-- 📫 How to reach me: https://twitter.com/danikgan or any other social media with "danikgan"
-
-<!---
-danikgan/danikgan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m **Daniel Gannota**
+- 👨‍💻 Full-stack software engineer playing mostly with Java, JS/TS, and a growing amount of AI tooling
+- 🤖 Currently building things around LLMs, RAG, automation and “making boring work less painful”
+- 📚 I’m always learning something new, so I don’t pretend this line is ever up to date
+- 💞️ Open to collaborating on interesting backend, data, or AI projects (side projects, OSS, or experiments)
+- 🌍 Based in Amsterdam, happy to work with people from anywhere
+- 📫 Reach me via GitHub DMs, or anything with the handle **@danikgan**
+- ✉️ Professional email: `daniel@gannota.dev`
